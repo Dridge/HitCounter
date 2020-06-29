@@ -2,8 +2,6 @@
 *.html
 # ignore settings
 .settings
-# ignore project
-.project
 # ignore classpath
 .classpath
 # ignore built class files
